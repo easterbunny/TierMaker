@@ -1,0 +1,13 @@
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\obj\Debug\ResolveAssemblyReference.cache
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\obj\Debug\TierMaker.frmAbout.resources
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\obj\Debug\TierMakerV2.frmFirst.resources
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\obj\Debug\TierMakerV2.Properties.Resources.resources
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\obj\Debug\TierMakerV2.csproj.GenerateResource.Cache
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\bin\Debug\TierMakerV2.exe
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\bin\Debug\TierMakerV2.pdb
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\obj\Debug\TierMakerV2.exe
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\obj\Debug\TierMakerV2.pdb
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\bin\Debug\TierMakerV2.exe.manifest
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\bin\Debug\TierMakerV2.application
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\obj\Debug\TierMakerV2.exe.manifest
+W:\Chris\Documents\Visual Studio 2005\Projects\TierMakerV2\TierMakerV2\obj\Debug\TierMakerV2.application
